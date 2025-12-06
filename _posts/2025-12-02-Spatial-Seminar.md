@@ -1,5 +1,5 @@
 ---
-title: GSI Seminar Spotlight on Opportunities and Challenges in Spatial Omics Cancer Research
+title: GSI Seminar Spotlight on "Opportunities and Challenges in Spatial Omics Cancer Research"
 tags:
   - spotlight
 author: Quynh Sun
