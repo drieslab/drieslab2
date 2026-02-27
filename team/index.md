@@ -114,6 +114,7 @@ nav:
 
 
 ## Lab Alumni
+ Quynh Sun (Lab Manager 2024-2025) <br>
  Anuradha Basyal (Graduate Student Intern 2024-2024) <br>
  Sanjana Hasyagar (Graduate Student Intern 2024-2024) <br>
  Jueshan Ji (Undergraduate Student 2024-2025) <br>
