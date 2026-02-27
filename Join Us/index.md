@@ -45,12 +45,20 @@ background and interests the following programs might apply:
 - Computing and data sciences: [https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/)   
 
 
+&nbsp;  
+
+#### Master Students
+
+We have several summer internship opportunities through the Bioinformatics Masters Summer Immersion Program from BU. Please see [https://sites.bu.edu/bmsip/](https://sites.bu.edu/bmsip/) for more information.
+
+
 &nbsp; 
 
 #### Undergraduate position in Biomedical Software Development (UROP)
 
-We currently don't have any open Undergraduate Research Positions (UROP).
-Future opportunities will be shared on [https://www.bu.edu/urop/opportunities/](https://www.bu.edu/urop/opportunities/). If you have ideas that align with the interest and expertise of our lab then please reach out and talk to us.
+We currently have one open [position](https://www.bu.edu/urop/opportunity/computational-biology/) as part of the Undergraduate Research Positions (UROP) program.
+
+Other future opportunities will also be shared on [https://www.bu.edu/urop/opportunities/](https://www.bu.edu/urop/opportunities/). If you have ideas that align with the interest and expertise of our lab then please reach out and talk to us.
 
 
 {% include section.html %}
