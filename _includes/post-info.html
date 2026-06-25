@@ -18,8 +18,7 @@
       <span>{{- include.date | date: '%B %d, %Y' -}}</span>
     </span>
   {%- endif -%}
+  {%- if include.tags -%}
+    {% include tags.html tags=include.tags link="blog" %}
+  {%- endif -%}
 </div>
-
-{%- if include.tags -%}
-  {% include tags.html tags=include.tags link="blog" %}
-{%- endif -%}

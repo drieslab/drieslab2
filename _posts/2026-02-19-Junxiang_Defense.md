@@ -5,7 +5,7 @@ tags:
   - celebration
   - spotlight
 author: Ruben Dries
-member: Junxiang-Xu
+member: Ruben-Dries
 ---
 
 Congratulations to Junxiang Xu for successfully defending his PhD thesis on February 19th!

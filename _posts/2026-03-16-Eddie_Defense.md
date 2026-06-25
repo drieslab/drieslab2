@@ -5,7 +5,7 @@ tags:
   - celebration
   - spotlight
 author: Ruben Dries
-member: Eddie-Ruiz
+member: Ruben-Dries
 ---
 
 Congratulations to Edward "Eddie" Ruiz for successfully defending his PhD thesis on March 16th!
@@ -23,7 +23,7 @@ Eddie is the **second student to graduate from the Dries Lab**, and this defense
 
 {%
   include figure.html
-  image="images/Blog/eddie_graduation.jpg"
+  image="images/Blog/eddie_graduation.png"
   caption="Eddie being hooded by Ruben at graduation"
   width="400px"
 %}
