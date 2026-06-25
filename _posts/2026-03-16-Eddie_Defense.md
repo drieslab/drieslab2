@@ -17,7 +17,7 @@ Eddie is the **second student to graduate from the Dries Lab**, and this defense
 {%
   include figure.html
   image="images/Blog/eddie_defense.jpg"
-  caption="Eddie at his thesis defense — March 16, 2025"
+  caption="Eddie at his thesis defense — March 16, 2026"
   width="400px"
 %}
 

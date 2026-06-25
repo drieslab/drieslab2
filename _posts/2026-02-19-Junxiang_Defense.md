@@ -17,6 +17,6 @@ This defense holds a special place in our lab's history — Junxiang is the **fi
 {%
   include figure.html
   image="images/Blog/junxiang_defense.jpg"
-  caption="Junxiang at his thesis defense — February 19, 2025"
+  caption="Junxiang at his thesis defense — February 19, 2026"
   width="400px"
 %}
