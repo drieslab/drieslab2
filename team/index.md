@@ -114,6 +114,7 @@ nav:
 
 
 ## Lab Alumni
+ Shaotai Hu (Undergraduate Student 2025-2026) <br>
  Quynh Sun (Lab Manager 2024-2025) <br>
  Anuradha Basyal (Graduate Student Intern 2024-2024) <br>
  Sanjana Hasyagar (Graduate Student Intern 2024-2024) <br>

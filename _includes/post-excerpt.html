@@ -25,7 +25,10 @@
   %}
 
   {% assign content = post.content | default: "" %}
+  {% assign snippet = content | strip_html | truncate: 150 %}
+  {% if snippet != "" %}
   <p>
-    {{ content | strip_html | truncate: 500 }}
+    {{ snippet }} <a href="{{ url | relative_url }}">Read more &rarr;</a>
   </p>
+  {% endif %}
 </div>
