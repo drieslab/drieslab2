@@ -16,11 +16,12 @@
   tags:
     - package
 
-- title: dbVerse
-  subtitle: scalable spatial omics data analysis
+- title: dbverse
+  subtitle: Scaling spatial omics analysis with analytical databases
   group: featured
-  image: images/Tools/work-in-progress.jpg
-  link: https://drieslab.github.io/dbverse/
+  image: images/Tools/dbverse-logo.svg
+  image_fit: contain
+  link: https://github.com/dbverse-org
   description: Composable database libraries for larger-than-memory scientific analytics
   tags:
     - package
