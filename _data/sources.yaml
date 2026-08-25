@@ -1,4 +1,28 @@
 
+- id: doi:10.64898/2026.08.09.743742
+  image: "images/Tools/dbverse-logo.svg"
+  tags:
+    - dbverse
+    - spatial omics
+    - software
+
+- id: doi:10.1016/j.isci.2026.116595
+  tags:
+    - spatial omics
+    - lung
+    - hematopoiesis
+
+- id: doi:10.1158/1078-0432.CCR-25-2565
+  tags:
+    - neuroendocrine tumors
+    - single cell
+
+- id: doi:10.1007/s10552-026-02138-z
+  tags:
+    - breast cancer
+    - cancer disparity
+
+
 - id: doi:10.1038/s41592-025-02817-w
   image: "images/Publications/GiottoSuite.png"
   tags:
