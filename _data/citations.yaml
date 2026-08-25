@@ -1,6 +1,100 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.64898/2026.08.09.743742
+  title: dbverse scales spatial omics analysis with embedded analytical databases
+  authors:
+  - Edward C. Ruiz
+  - Veronica Jarzabek
+  - Jiaji Chen
+  - Timur Rizvanov
+  - Iqra Amin
+  - Ruben Dries
+  publisher: openRxiv
+  date: '2026-08-14'
+  link: https://doi.org/hcgnvf
+  image: images/Tools/dbverse-logo.svg
+  tags:
+  - dbverse
+  - spatial omics
+  - software
+- id: doi:10.1016/j.isci.2026.116595
+  title: High resolution spatial profiling of the hematopoietic landscape of the murine
+    lung
+  authors:
+  - Nicholas J. Skvir
+  - Alexandra B. Ysasi
+  - Veronica Jarzabek
+  - Anthony K. Yeung
+  - Jiaji G. Chen
+  - Ruben Dries
+  - George J. Murphy
+  publisher: iScience
+  date: '2026-07-01'
+  link: https://doi.org/hcgnvg
+  tags:
+  - spatial omics
+  - lung
+  - hematopoiesis
+- id: doi:10.1158/1078-0432.CCR-25-2565
+  title: Distinct Malignant Cell States and Myeloid Glutamate Signaling Associated
+    with Aggressive Pancreatic Neuroendocrine Tumors
+  authors:
+  - Jeanna M. Arbesfeld-Qiu
+  - Jae-Won Cho
+  - Phuong T.T. Nguyen
+  - Nicole A. Lester
+  - Jennifer Su
+  - Carina Shiau
+  - Jimmy A. Guo
+  - Hannah Hoffman
+  - Nicholas J. Caldwell
+  - Shugo Muratani
+  - Miranda Galvan
+  - Jessica E. Proctor
+  - Zackery A. Ely
+  - Steven Wang
+  - Maria Ganci
+  - Ruben Dries
+  - Theodore Hong
+  - Jennifer Wo
+  - Genevieve Boland
+  - Carlos Fernandez-del Castillo
+  - Cristina R. Ferrone
+  - Christopher M. Heaphy
+  - M. Lisa Zhang
+  - Mari Mino-Kenudson
+  - Martin Hemberg
+  - William L. Hwang
+  publisher: Clinical Cancer Research
+  date: '2026-03-18'
+  link: https://doi.org/hcgnvh
+  tags:
+  - neuroendocrine tumors
+  - single cell
+- id: doi:10.1007/s10552-026-02138-z
+  title: 'Breast cancer inequities: the intersectional role of social epidemiology
+    and tumor biology'
+  authors:
+  - Malalage Nicole Peiris
+  - Aylin Dedeoglu
+  - Ilze Smidt
+  - Akiko Suzuki
+  - Esther Rheinbay
+  - Adrian Ilinski
+  - Jiaji George Chen
+  - Osasogie Imafidon
+  - Christina Ennis
+  - Kiana Mahdaviani
+  - Ruben Dries
+  - Leif W. Ellisen
+  - Naomi Y. Ko
+  publisher: Cancer Causes &amp; Control
+  date: '2026-03-05'
+  link: https://doi.org/hcgnvj
+  tags:
+  - breast cancer
+  - cancer disparity
 - id: doi:10.1038/s41592-025-02817-w
   title: 'Giotto Suite: a multiscale and technology-agnostic spatial multiomics analysis
     ecosystem'
