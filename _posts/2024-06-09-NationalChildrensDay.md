@@ -12,35 +12,35 @@ Update: New children and members have been added since this date.
 
 {%
   include figure.html
-  image="images/Blog/children1.jpg"
+  image="images/Blog/children1.png"
   caption="Left to Right: Naomi's, Munawwar's, Mason's "
   width="400px"
 %}
 
 {%
   include figure.html
-  image="images/Blog/children2.jpg"
+  image="images/Blog/children2.png"
   caption="Top: Michelle's, Quynh and Quynh's; Bottom: All Veronica's"
   width="400px"
 %}
 
 {%
   include figure.html
-  image="images/Blog/children3.jpg"
+  image="images/Blog/children3.png"
   caption="All Iqra's "
   width="400px"
 %}
 
 {%
   include figure.html
-  image="images/Blog/children4.jpg"
+  image="images/Blog/children4.png"
   caption="All Iqra's"
   width="400px"
 %}
 
 {%
   include figure.html
-  image="images/Blog/aren't they so cute?.jpg"
+  image="images/Blog/arent-they-so-cute.jpg"
   caption="Ruben and Kim's"
   width="400px"
 %}

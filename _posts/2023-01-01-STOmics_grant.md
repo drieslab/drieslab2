@@ -11,7 +11,7 @@ The Dries lab is excited to receive an STOmics grant to perform Stereo-Sequencin
 
 {%
   include figure.html
-  image="images/stereo-seq.png"
+  image="images/Blog/stereo-seq.png"
   caption="Stereo-seq technology"
   width="400px"
 %}

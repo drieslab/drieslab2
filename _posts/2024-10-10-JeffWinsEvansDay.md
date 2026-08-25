@@ -3,7 +3,7 @@ title: Congratulations, Jeff!
 tags:
   - celebration
 author: Quynh Sun
-member: Jeff Sheridan
+member: Jeff-Sheridan
 ---
 
 Congratulations to Jeff! He just won 2nd place for his oral presentation during BUMC's Evans Day! 

@@ -19,7 +19,7 @@ Ruben insists on another tournament soon.
 
 {%
   include figure.html
-  image="images/Blog/pingpong.jpg"
+  image="images/Blog/pingpong.jpeg"
   caption="Ping Pong gets Competitive"
   width="400px"
 %}

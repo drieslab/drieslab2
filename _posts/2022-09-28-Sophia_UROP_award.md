@@ -10,7 +10,7 @@ Our undergraduate student Sophia applied and received a UROP award for her work 
 
 {%
   include figure.html
-  image="images/Sophia_Murray.jpg"
+  image="images/People/Sophia_Murray.jpg"
   caption="Sophia for the win!"
   width="400px"
 %}

@@ -50,6 +50,7 @@
   >
     <img
       src="{{ include.image | relative_url }}"
+      onerror="this.src = '{{ 'images/placeholder.svg' | relative_url }}'; this.onerror = null;"
       alt="{{ include.caption | default: '' }}"
       title="{{ include.caption | default: '' }}"
       style="{{ img }}"

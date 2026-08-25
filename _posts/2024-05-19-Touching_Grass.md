@@ -33,7 +33,7 @@ Thank you for the lunch, Ruben!
 
 {%
   include figure.html
-  image="images/Blog/aren't they so cute?.jpg"
+  image="images/Blog/arent-they-so-cute.jpg"
   caption="Aren't They so Cute?"
   width="400px"
 %}

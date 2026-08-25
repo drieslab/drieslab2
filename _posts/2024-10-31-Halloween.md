@@ -3,7 +3,6 @@ title: Dries & Ko After Hours
 tags:
   - fun
 author: Quynh Sun
-member: Quynh-Sun
 ---
 
 It all started when Munawwar wore her yellow sweater and blue jeans for the first time at the Dries Lab. That very day set a great plan into motion, it was to be executed the day of Halloween. Everyone on site at the Dries & Ko Labs dressed up as their assigned characters from Arthur. Never fear, a two hour long photoshoot captured the fun and excitement that day. 
@@ -35,56 +34,56 @@ Eddie as Principal Haney
 
 {%
   include figure.html
-  image="images/Blog/halloweenparents.jpg"
+  image="images/Blog/halloweenparents.png"
   caption="The Parents"
   width="400px"
 %}
 
 {%
   include figure.html
-  image="images/Blog/halloweenthefist.jpg"
+  image="images/Blog/halloweenthefist.png"
   caption="The Fist that Started it All"
   width="400px"
 %}
 
 {%
   include figure.html
-  image="images/Blog/halloweenmeme.jpg"
+  image="images/Blog/halloweenmeme.png"
   caption="This sign can't stop because I can't read!"
   width="400px"
 %}
 
 {%
   include figure.html
-  image="images/Blog/halloweengeorge.jpg"
+  image="images/Blog/halloweengeorge.png"
   caption="Do you have a moment to talk about our Lord and Savior, Giotto?"
   width="400px"
 %}
 
 {%
   include figure.html
-  image="images/Blog/halloweenmeme2.jpg"
+  image="images/Blog/halloweenmeme2.png"
   caption="Quynh's Favorite Picture"
   width="400px"
 %}
 
 {%
   include figure.html
-  image="images/Blog/halloweenmeme3.jpg"
+  image="images/Blog/halloweenmeme3.png"
   caption="Dries Lab Shenanigans"
   width="400px"
 %}
 
 {%
   include figure.html
-  image="images/Blog/halloweenmeme4.jpg"
+  image="images/Blog/halloweenmeme4.png"
   caption="Mason had to squat for this picture"
   width="400px"
 %}
 
 {%
   include figure.html
-  image="images/Blog/halloweenjunxiang.jpg"
+  image="images/Blog/halloweenjunxiang.png"
   caption="Junxiang is the Coolest"
   width="400px"
 %}
