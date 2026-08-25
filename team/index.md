@@ -31,6 +31,12 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: datascientist"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: programmer"
 %}
 {%
@@ -114,6 +120,8 @@ nav:
 
 
 ## Lab Alumni
+ Junxiang Xu (Graduate Student 2022-2026) — now Research Assistant in China <br>
+ Anirudh Jaishankar (Bioinformatics Intern 2025-2026) — now in the Bioinformatics program at Iowa State University <br>
  Shaotai Hu (Undergraduate Student 2025-2026) <br>
  Quynh Sun (Lab Manager 2024-2025) <br>
  Anuradha Basyal (Graduate Student Intern 2024-2024) <br>

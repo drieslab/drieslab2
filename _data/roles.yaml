@@ -18,6 +18,10 @@ labman:
   icon: fas fa-flask
   text: Lab Manager
 
+datascientist:
+  icon: fas fa-chart-line
+  text: Data Scientist
+
 programmer:
   icon: fas fa-code
   text: Programmer
