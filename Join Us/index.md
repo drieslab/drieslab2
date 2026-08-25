@@ -1,8 +1,8 @@
 ---
 title: Join Us!
 nav:
-  order: 3
-  tooltip: About our team
+  order: 4
+  tooltip: Open positions and how to apply
 ---
 
 # <i class="fas fa-users"></i>Join Us!

@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 3
+  order: 5
   tooltip: About our team
 ---
 
@@ -25,12 +25,6 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: labmanager"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: datascientist"
 %}
 {%
@@ -38,12 +32,6 @@ nav:
   data="members"
   component="portrait"
   filters="role: programmer"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: researchassistant"
 %}
 {%
   include list.html
@@ -127,9 +115,13 @@ nav:
  Anuradha Basyal (Graduate Student Intern 2024-2024) <br>
  Sanjana Hasyagar (Graduate Student Intern 2024-2024) <br>
  Jueshan Ji (Undergraduate Student 2024-2025) <br>
+ Jayden Raphino (Undergraduate Student 2023-2024) <br>
+ Niyana Self (Undergraduate Student 2022-2024) <br>
  Munawwar Abdulla (Lab Coordinator 2024-2025) <br>
  Iqra Amin (Bioinformatician 2023-2024) <br>
  Thea Nalan (Research Assistant 2022-2024) <br>
+ Christina Ennis (Graduate Student 2022-2023) <br>
+ Jason Weis (Graduate Student 2022-2023) <br>
  Jahlisse Bruton (Lab Manager 2023-2024) <br>
  Matthew O'Brien (Bioinformatician 2022-2023) <br>
  Kriya Patel (UROP Undergraduate Student 2022-2023) <br>
@@ -138,8 +130,8 @@ nav:
  Sophia Murray (UROP Undergraduate Student 2022-2023) <br>
  Emma Kelley (Lab Manager and Research Associate 2020-2022) <br>
  Cecilia McCormick (BRITE REU Scholar Summer 2022) <br>
- Laila Norford (BRIE REU Scholar Summer 2022) <br>
- Mohammed Muzami Khan (PhD Student 2020-2022) <br>
+ Laila Norford (BRITE REU Scholar Summer 2022) <br>
+ Mohammed Muzamil Khan (PhD Student 2020-2022) <br>
  Rafael dos Santos Peixoto (Undergrad Thesis Student 2021-2022) <br>
  Kylor Lachut (Undergraduate Student 2020-2021) <br>
  Clare Melley (Summer Undergraduate Student Summer 2021) <br>

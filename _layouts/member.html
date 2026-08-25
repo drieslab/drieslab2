@@ -37,7 +37,7 @@ layout: default
     {%- endcapture -%}
     {%- include link.html icon="fas fa-external-link-alt" text=text link=page.personal_site style="button" -%}
   {%- else -%}
-    {%- assign search = aliases | join: '" "' | prepend: '"' | append: '"' | prepend: "/research/?search=" -%}
+    {%- assign search = aliases | join: '" "' | prepend: '"' | append: '"' | prepend: "/publications/?search=" -%}
     {%- capture text -%}
       {{ page.title }}'s papers
     {%- endcapture -%}

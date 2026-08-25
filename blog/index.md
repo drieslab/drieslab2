@@ -1,8 +1,8 @@
 ---
 title: News
 nav:
-  order: 4
-  tooltip: Musings and miscellany
+  order: 6
+  tooltip: Lab news and updates
 ---
 
 # <i class="fas fa-feather-alt"></i>News
