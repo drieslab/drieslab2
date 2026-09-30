@@ -27,8 +27,14 @@ but will be asked to give and take advice in a positive and constructive manner.
 
 #### Postdoctoral Fellow(s) in Spatial biology & software engineering
 
-We currently don't have any open positions, but encourage you to reach out to [Ruben](mailto:rdries@bu.edu) 
-if you're interest in our lab and would like to discuss ongoing projects and opportunities.
+We are looking for a postdoctoral fellow to work on spatial omics and drive the development of
+spatial data analysis software within [Giotto Suite](https://www.giottosuite.com).
+You will analyze large-scale spatial datasets, develop new computational methods, and bridge
+computational and wet lab approaches. We are looking for candidates with a Ph.D. in computational biology,
+bioinformatics, computer science, or a related field and strong programming skills (e.g. R, Python, Rust, C++).
+
+Please apply through the official [Boston Medical Center job posting](https://careers.bmc.org/jobs/postdoctoral-research-fellow-hematology-and-oncology-boston-massachusetts-65524a58-d722-466f-a9e6-0a54834b9e38).
+Feel free to reach out to [Ruben](mailto:rdries@bu.edu) directly with any questions or to share your research statement.
 
 &nbsp;  
 
